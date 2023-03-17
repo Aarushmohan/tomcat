@@ -48,10 +48,7 @@
 </dependency>
 	</dependencies>
 	
-	
-	
-<build>
-       
+
 	<properties>
     <java.version>11</java.version>
     <maven.compiler.release>${java.version}</maven.compiler.release>
